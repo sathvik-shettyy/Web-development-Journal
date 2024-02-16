@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .navbar {
+    float: left;
+    width: 150px;
+    padding-top: 15px;
+    background-color: khaki;
+  }
+  
+  .content {
+    margin-top: 20px;
+  }
+  
+  .box {
+    display: inline-block;
+    background: red;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+  }
+  
+  #two {
+    position: relative; /* Choose one: fixed, relative, or absolute */
+    background: green;
+  }
+  
+  .footer {
+    margin-top: 20px;
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+  }  
